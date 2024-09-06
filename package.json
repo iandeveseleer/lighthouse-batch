@@ -19,6 +19,6 @@
   "dependencies": {
     "commander": "^2.9.0",
     "lighthouse": "^12.2.0",
-    "shelljs": "^0.8.4"
+    "shelljs": "^0.8.5"
   }
 }
